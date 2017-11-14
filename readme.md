@@ -2,7 +2,7 @@
 
 The notebook in this repository accompanies the blog: https://www.toptal.com/machine-learning/generative-adversarial-networks
 
-View this notebook on nbviewer: https://github.com/codyznash/GANs_for_Credit_Card_Data
+View this notebook on nbviewer: https://nbviewer.jupyter.org/github/codyznash/GANs_for_Credit_Card_Data/blob/master/GAN_comparisons.ipynb
 
 
 
